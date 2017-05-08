@@ -5,19 +5,19 @@ A project to take input source code and generates UML diagram. Class Diagram is 
 
 Tools and Libraries Used:
 
-1.Eclipse JEE MARS: The choice of Java IDE used for the development of this project.
+ 1. Eclipse JEE MARS: The choice of Java IDE used for the development of this project.
 
-2.Java parser: Java parser is used to parse source code. Then the desired notation is generated which is
-given to yUML as input code. The library javaparser from github has been used for generating suitable
-grammar.
+ 2. Java parser: Java parser is used to parse source code. Then the desired notation is generated which is
+ given to yUML as input code. The library javaparser from github has been used for generating suitable
+ grammar.
 
-url: https://github.com/javaparser/javaparser
+     url: https://github.com/javaparser/javaparser
 
 3. UML generator: The free tool yUML used for the getting the UML class diagram.
 
-url : http://yuml.me/diagram/plain/class/
+    url : http://yuml.me/diagram/plain/class/
 
-4. To generate class diagram:
+ 4. To generate class diagram:
 
 For example:
 
